@@ -11,7 +11,8 @@ Este repositorio contiene **casos de estudio** de proyectos desarrollados en mi 
 *   [**Efficiency Tracking Dashboard**](./case-study-efficiency-tracking.md): Suite analítica que incluye el análisis profundo de OEE (Streamlit) y el monitoreo de indicadores de confiabilidad MTBF/MTTR (Looker Studio) a partir de una única fuente de datos.
 
 ### 2. Gestión Financiera y KPIs
-*   [**Maintenance Expenses & Orders Tracker**](./case-study-maintenance-expenses-orders.md): Dashboard integral de gastos de mantenimiento (preventivo vs correctivo) y cumplimiento de órdenes de trabajo.
+*   [**Maintenance Expenses Tracker**](./case-study-maintenance-expenses.md): Dashboard para el control del presupuesto y gastos operativos de mantenimiento.
+*   [**Maintenance Orders Compliance**](./case-study-maintenance-orders.md): Herramienta de visualización operativa para medir el cumplimiento de órdenes de trabajo.
 *   [**SAP Tickets Resolution (OTIF)**](./case-study-sap-tickets.md): Herramienta de seguimiento para resolución de tarjetas SAP y medición del KPI OTIF (On Time In Full).
 
 ---
